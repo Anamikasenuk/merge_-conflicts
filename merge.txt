@@ -1,2 +1,6 @@
 "this is our content"
+<<<<<<< HEAD
 "Someone elses changes"
+=======
+" these are some changes"
+>>>>>>> branch_to_merge
